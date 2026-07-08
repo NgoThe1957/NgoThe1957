@@ -4,7 +4,6 @@
 
 > **Kết nối Lịch sử và Văn học Việt Nam.**
 
-Xin chào!
 
 Tôi là **Ngô Xuân Thể**, người biên soạn và phát triển dự án **Vietnam Literature Digital Library (VLDL)**.
 
@@ -16,7 +15,7 @@ Mục tiêu của dự án là xây dựng một thư viện số học thuật 
 
 ## 📘 Tài liệu Tra cứu Lịch sử và Văn học Việt Nam
 
-Đại sảnh tri thức của toàn bộ hệ thống VLDL.
+Đại Sảnh Tri Thức của toàn bộ hệ thống VLDL.
 
 ➡️ Điểm khởi đầu để khám phá toàn bộ thư viện số.
 
@@ -54,6 +53,7 @@ Một thư viện số học thuật với sứ mệnh:
 
 > **Kết nối Lịch sử và Văn học Việt Nam.**
 
+- Tra cứu. Nghiên cứu. Lưu trữ
 ---
 
 **Ngô Xuân Thể**
